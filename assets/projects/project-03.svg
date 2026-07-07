@@ -8,5 +8,5 @@
     <circle cx="70" cy="45" r="7"/>
     <rect x="10" y="20" width="12" height="12" rx="3"/>
   </g>
-  <text x="320" y="360" text-anchor="middle" font-family="'Cairo',Arial,sans-serif" font-size="26" font-weight="800" fill="#F5F8FC">أنظمة مراقبة — منشأة سكنية</text>
+  <text x="320" y="360" text-anchor="middle" font-family="'Cairo',Arial,sans-serif" font-size="26" font-weight="800" fill="#F5F8FC">محطة كهرباء العريش</text>
 </svg>

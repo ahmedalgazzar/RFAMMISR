@@ -14,5 +14,5 @@
     <circle cx="0" cy="60" r="7" fill="#FF7A00" stroke="none"/>
     <circle cx="100" cy="20" r="7" fill="#FF7A00" stroke="none"/>
   </g>
-  <text x="320" y="360" text-anchor="middle" font-family="'Cairo',Arial,sans-serif" font-size="26" font-weight="800" fill="#F5F8FC">مشروع شبكة فايبر — مصنع</text>
+  <text x="320" y="360" text-anchor="middle" font-family="'Cairo',Arial,sans-serif" font-size="26" font-weight="800" fill="#F5F8FC">محطة كهرباء الكريمات</text>
 </svg>
