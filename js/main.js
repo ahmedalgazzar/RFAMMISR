@@ -38,6 +38,18 @@
 
   /* ---------- Smooth scroll with sticky-header offset ---------- */
   var header = document.getElementById('site-header');
+  function checkScroll(){
+    if (header) {
+      if (window.scrollY > 20) {
+        header.classList.add('scrolled');
+      } else {
+        header.classList.remove('scrolled');
+      }
+    }
+  }
+  window.addEventListener('scroll', checkScroll);
+  checkScroll();
+
   function headerOffset(){
     return header ? header.offsetHeight : 0;
   }
