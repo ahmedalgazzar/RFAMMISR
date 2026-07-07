@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" width="640" height="420">
+  <defs><linearGradient id="g4" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#0B1F3A"/><stop offset="100%" stop-color="#122B4F"/></linearGradient></defs>
+  <rect width="640" height="420" fill="url(#g4)"/>
+  <g opacity="0.4" stroke="#00C2FF" stroke-width="2" fill="none"><path d="M-20 80 C 180 150, 340 40, 660 120"/></g>
+  <g transform="translate(230,120)" stroke="#00C2FF" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="0" y="0" width="70" height="110" rx="6"/>
+    <rect x="90" y="0" width="70" height="110" rx="6"/>
+    <path d="M10 20 h50 M10 40 h50 M10 60 h50 M10 80 h50"/>
+    <path d="M100 20 h50 M100 40 h50 M100 60 h50 M100 80 h50"/>
+  </g>
+  <text x="320" y="360" text-anchor="middle" font-family="'Cairo',Arial,sans-serif" font-size="26" font-weight="800" fill="#F5F8FC">تجهيز غرفة سيرفرات</text>
+</svg>

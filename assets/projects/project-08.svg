@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" width="640" height="420">
+  <defs><linearGradient id="g8" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#0B1F3A"/><stop offset="100%" stop-color="#122B4F"/></linearGradient></defs>
+  <rect width="640" height="420" fill="url(#g8)"/>
+  <g opacity="0.4" stroke="#00C2FF" stroke-width="2" fill="none"><path d="M-20 90 C 180 160, 340 30, 660 110"/></g>
+  <g transform="translate(240,140)" stroke="#00C2FF" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M10 90 C 10 40, 150 40, 150 90"/>
+    <path d="M80 90 v-70"/>
+    <circle cx="80" cy="14" r="6"/>
+  </g>
+  <text x="320" y="360" text-anchor="middle" font-family="'Cairo',Arial,sans-serif" font-size="26" font-weight="800" fill="#F5F8FC">دش مركزي — مجمع سكني</text>
+</svg>

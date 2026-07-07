@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" width="640" height="420">
+  <defs><linearGradient id="g5" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#122B4F"/><stop offset="100%" stop-color="#0B1F3A"/></linearGradient></defs>
+  <rect width="640" height="420" fill="url(#g5)"/>
+  <g opacity="0.4" stroke="#00C2FF" stroke-width="2" fill="none"><path d="M-20 300 C 200 220, 380 360, 660 260"/></g>
+  <g transform="translate(250,130)" stroke="#00C2FF" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="0" y="30" width="140" height="90" rx="10"/>
+    <circle cx="70" cy="20" r="12"/>
+    <path d="M70 32 v18"/>
+    <path d="M30 60 h20 M90 60 h20"/>
+    <path d="M30 90 h80"/>
+  </g>
+  <text x="320" y="360" text-anchor="middle" font-family="'Cairo',Arial,sans-serif" font-size="26" font-weight="800" fill="#F5F8FC">تحكم دخول — مبنى إداري</text>
+</svg>

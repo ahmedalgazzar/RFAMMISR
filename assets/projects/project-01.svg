@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" width="640" height="420">
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#122B4F"/><stop offset="100%" stop-color="#0B1F3A"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="420" fill="url(#g1)"/>
+  <g opacity="0.5" stroke="#00C2FF" stroke-width="2" fill="none">
+    <path d="M-20 340 C 160 260, 320 400, 660 300"/>
+    <path d="M-20 380 C 200 320, 360 420, 660 360"/>
+  </g>
+  <g transform="translate(270,150)" stroke="#00C2FF" stroke-width="6" fill="none" stroke-linecap="round">
+    <path d="M0 60 C 20 10, 60 90, 100 20"/>
+    <circle cx="0" cy="60" r="7" fill="#FF7A00" stroke="none"/>
+    <circle cx="100" cy="20" r="7" fill="#FF7A00" stroke="none"/>
+  </g>
+  <text x="320" y="360" text-anchor="middle" font-family="'Cairo',Arial,sans-serif" font-size="26" font-weight="800" fill="#F5F8FC">مشروع شبكة فايبر — مصنع</text>
+</svg>
