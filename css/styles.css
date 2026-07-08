@@ -3,16 +3,16 @@
    RTL-first, logical properties, CSS custom properties
    =========================================================== */
 
-/* TODO: تحديث الألوان حسب اللوجو الرسمي عند استلامه */
+/* الألوان متوافقة مع الهوية البصرية للشعار الرسمي للشركة */
 :root{
   --navy:#0E54A4;
-  --navy-2:#F68B33;
-  --navy-3:#122B4F;
-  --cyan:#00E5FF;
-  --orange:#000000;
+  --navy-2:#072244;
+  --navy-3:#04162E;
+  --cyan:#3FA9F5;
+  --orange:#F68B33;
   --bg:#F5F8FC;
   --surface:#FFFFFF;
-  --ink:#16233B;
+  --ink:#1A202C;
   --muted:#5C6B85;
 
   --radius:16px;
@@ -104,7 +104,7 @@ ul{ margin:0; padding:0; list-style:none; }
   color:#fff;
   box-shadow:var(--shadow-sm);
 }
-.btn-cta:hover{ background:#e66d00; box-shadow:var(--shadow-md); }
+.btn-cta:hover{ background:#E07A28; box-shadow:var(--shadow-md); }
 
 .btn-whatsapp{
   background:#1FBE5B;
@@ -730,7 +730,7 @@ ul{ margin:0; padding:0; list-style:none; }
   height:58px;
   border-radius:14px;
   background:rgba(0, 194, 255, 0.08);
-  color:var(--navy-2);
+  color:var(--orange);
   margin-bottom:1.2em;
   border:1px solid rgba(0, 229, 255, 0.12);
   transition:all 0.3s ease;
@@ -926,7 +926,7 @@ ul{ margin:0; padding:0; list-style:none; }
   align-items:center;
   gap:0.6rem;
   font-size:1.05rem;
-  color:var(--navy-2);
+  color:var(--orange);
   margin:0 0 1.2rem 0;
   padding-bottom:0.5rem;
   border-bottom:2px solid rgba(0, 229, 255, 0.15);
